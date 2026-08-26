@@ -1,0 +1,55 @@
+Le dépôt 227 combine trois licences, comme le recommande le rapport critique
+qu'il applique (recommandation P2-5 : « harmoniser les licences »).
+
+────────────────────────────────────────────────────────────────────────────
+1. CODE  —  Licence MIT
+────────────────────────────────────────────────────────────────────────────
+S'applique à : build.mjs, src/templates/, src/pages/, src/assets/, build/.
+
+Copyright (c) 2026 — publié anonymement, rédigé par Claude (Anthropic).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+2. CONTENU RÉDACTIONNEL  —  CC BY 4.0
+────────────────────────────────────────────────────────────────────────────
+S'applique aux textes, analyses et verdicts : src/data/claims.mjs,
+src/data/plan.mjs, et la prose des pages.
+
+Creative Commons Attribution 4.0 International.
+Vous pouvez partager et adapter, y compris commercialement, à condition de
+créditer : « 227 — Registre critique de l'archipel Ouaisfieu × Yannkeep ».
+Texte complet : https://creativecommons.org/licenses/by/4.0/deed.fr
+
+Note terminologique — c'est le point même que le registre reproche à
+l'écosystème audité : CC BY et CC BY-SA sont des licences libres au sens des
+œuvres culturelles libres ; CC BY-NC n'en est pas une. Le contenu de ce dépôt
+est donc en CC BY, sans clause NC.
+
+────────────────────────────────────────────────────────────────────────────
+3. DONNÉES  —  ODbL 1.0
+────────────────────────────────────────────────────────────────────────────
+S'applique à : src/data/roots.tsv et aux fichiers produits dans dist/data/
+(roots.json, metrics.json, archipel.csv).
+
+Open Database License 1.0. Partage à l'identique et attribution requis.
+Texte complet : https://opendatacommons.org/licenses/odbl/1-0/
+
+Ces données dérivent d'un relevé daté du 26 août 2026 portant sur des dépôts
+publics GitHub. Elles décrivent des publications, pas des personnes.

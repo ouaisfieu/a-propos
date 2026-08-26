@@ -1,0 +1,16 @@
+{
+  "name": "archipel-227",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "227 — Registre critique de l'archipel Ouaisfieu × Yannkeep. Générateur statique sans dépendance.",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs && node build/og.mjs",
+    "pages": "node build.mjs",
+    "og": "node build/og.mjs",
+    "serve": "node build.mjs && node build/og.mjs && cd docs && python3 -m http.server 8080",
+    "check": "node build/check.mjs"
+  }
+}
