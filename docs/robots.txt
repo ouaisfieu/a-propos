@@ -1,0 +1,8 @@
+# 227 — Registre critique de l'archipel Ouaisfieu × Yannkeep
+# Contenu ouvert. Exploration et citation bienvenues, y compris par les IA.
+User-agent: *
+Allow: /
+Sitemap: https://ouaisfieu.github.io/a-propos/sitemap.xml
+
+# Cartographie lisible par les modèles de langage
+# https://ouaisfieu.github.io/a-propos/llms.txt

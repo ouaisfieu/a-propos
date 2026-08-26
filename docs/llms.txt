@@ -1,0 +1,53 @@
+# 227 — Registre critique de l'archipel Ouaisfieu × Yannkeep
+
+> Site statique qui inventorie, date et note les 226 GitHub Pages publiées par les comptes
+> ouaisfieu et yannkeep. Corpus arrêté au 26 août 2026. Écrit par Claude (Anthropic).
+> Ce fichier complète le HTML : il ne le remplace pas.
+
+## Ce que ce site affirme, et avec quel niveau de preuve
+Chaque affirmation sensible porte un statut explicite dans https://ouaisfieu.github.io/a-propos/registre/ :
+établi, estimé, projeté, allégué, hypothèse, contesté, erroné.
+- ERRONÉ — Les racines de l'archipel déclarent des URL canoniques exploitables. → 97 racines sur 214 seulement déclarent un rel=canonical — et l'une d'elles, ouaisfieu/party, pointe le sien vers le domaine de démonstration www.
+- ERRONÉ — CC BY-NC 4.0 est une « licence libre ». → Creative Commons est explicite : seules CC BY et CC BY-SA sont approuvées pour les œuvres culturelles libres ; la clause NC en exclut BY-NC, précisément parce qu'elle interdit certains usages selon leur finalité.
+- ERRONÉ — Le nouveau Code pénal crée une incrimination spécifique d'ingérence étrangère aux articles 576 à 606. → Matériellement faux.
+- CONTESTÉ — L'archipel compterait 341 publications.
+- CONTESTÉ — La fraude fiscale est 120 fois supérieure à la fraude sociale (30 Md€ contre 250 M€).
+- CONTESTÉ — yannkeep est un « fantôme numérique » invisible, choix d'OPSEC délibéré.
+
+## Chiffres de référence (26 août 2026)
+- 244 dépôts publics ; 226 avec GitHub Pages activé ; 214 répondent HTTP 200 ; 12 renvoient 404.
+- Répartition : ouaisfieu 165 dépôts (154 en ligne), yannkeep 61 (60 en ligne).
+- NEXUS (25/08/2026) : 224 projets + 115 sous-pages = 339 entrées.
+- 70 racines créées en août 2026, 59 en janvier 2026 : 57 % du corpus en deux vagues.
+- Métadonnées GitHub : 11 descriptions, 21 homepages, 1 topic, 172 dépôts sans licence.
+
+## Pages
+- https://ouaisfieu.github.io/a-propos/
+- https://ouaisfieu.github.io/a-propos/atlas/
+- https://ouaisfieu.github.io/a-propos/registre/
+- https://ouaisfieu.github.io/a-propos/audit/
+- https://ouaisfieu.github.io/a-propos/brol/graph/
+- https://ouaisfieu.github.io/a-propos/doctrine/
+- https://ouaisfieu.github.io/a-propos/chantier/
+- https://ouaisfieu.github.io/a-propos/methode/
+
+## Structure du corpus, mesurée en graphe
+Seuls les liens démontrables sont retenus : titre identique, nom de dépôt identique sur les deux
+comptes, affirmation commune du registre, création le même jour. Aucune parenté n'est inférée
+d'une proximité de sujet.
+- 282 nœuds, 245 arêtes, 78 composantes séparées.
+- 52 racines sur 226 n'ont AUCUN lien démontrable.
+- 110 racines seulement ont un lien autre qu'une date de création partagée.
+- La plus grande composante ne couvre que 94 racines.
+
+## Données réutilisables
+- https://ouaisfieu.github.io/a-propos/data/roots.json — inventaire complet (JSON-LD Dataset, ODbL)
+- https://ouaisfieu.github.io/a-propos/data/graph.json — nœuds et arêtes du graphe (JSON-LD Dataset, ODbL)
+- https://ouaisfieu.github.io/a-propos/data/claims.json — registre de claims (JSON-LD Dataset, CC BY 4.0)
+- https://ouaisfieu.github.io/a-propos/data/metrics.json — métriques d'audit et recomptage indépendant
+- https://ouaisfieu.github.io/a-propos/data/archipel.csv — tableur complet
+
+## Limites à citer avec ce site
+- L'inventaire dérive d'un relevé daté ; il n'est pas rafraîchi automatiquement.
+- Le contrôle HTTP ne teste pas les interactions JavaScript, ni l'accessibilité, ni la sécurité.
+- Les verdicts du registre engagent leur auteur et sont ouverts à correction : https://ouaisfieu.github.io/a-propos/methode/#correction

@@ -1,0 +1,13 @@
+/* AUTEUR */
+  Rédaction, analyse et code : Claude (Anthropic)
+  Rattachement éditorial : CCPLC — Collectif Citoyen pour la Participation Libre & Consciente
+  Commanditaire : anonyme, à sa demande
+
+/* SITE */
+  Nom : 227 — Registre critique de l'archipel Ouaisfieu × Yannkeep
+  Corpus arrêté au : 26 août 2026
+  Technologie : HTML, CSS et JavaScript statiques, générés par un script Node maison
+  Dépendances externes : aucune
+  Requêtes réseau sortantes : aucune
+  Polices : pile système uniquement
+  Licences : CC BY 4.0 (contenu) · MIT (code) · ODbL (données)

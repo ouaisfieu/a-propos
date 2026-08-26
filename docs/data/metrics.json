@@ -1,0 +1,286 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Métriques d'audit de l'archipel Ouaisfieu × Yannkeep",
+  "url": "https://ouaisfieu.github.io/a-propos/audit/",
+  "dateModified": "2026-08-26",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "inventory": {
+    "repos": 244,
+    "pagesEnabled": 226,
+    "http200": 214,
+    "http404": 12,
+    "ouaisfieu": {
+      "enabled": 165,
+      "ok": 154,
+      "ko": 11
+    },
+    "yannkeep": {
+      "enabled": 61,
+      "ok": 60,
+      "ko": 1
+    },
+    "nexus": {
+      "projects": 224,
+      "observed": 211,
+      "declared": 1,
+      "errors": 12,
+      "subpages": 115,
+      "entries": 339,
+      "generated": "2026-08-25"
+    },
+    "catalogable": 341,
+    "createdAug2026": 70,
+    "pushedAug2026": 75,
+    "createdJan2026": 59,
+    "twoWaves": 129,
+    "twoWavesPct": 57,
+    "hub": {
+      "pages": 158,
+      "published": 79,
+      "todo": 79,
+      "labs": 26,
+      "total": 184
+    },
+    "portail": {
+      "pages": 157
+    },
+    "nexusTypes": [
+      [
+        "Laboratoires",
+        83
+      ],
+      [
+        "Documentations",
+        48
+      ],
+      [
+        "Hubs",
+        24
+      ],
+      [
+        "Dossiers",
+        23
+      ],
+      [
+        "Expériences",
+        23
+      ],
+      [
+        "Outils",
+        23
+      ]
+    ],
+    "subpagesByTheme": [
+      [
+        "JUS",
+        33
+      ],
+      [
+        "DOC",
+        26
+      ],
+      [
+        "ARG",
+        14
+      ],
+      [
+        "OUT",
+        12
+      ],
+      [
+        "LAB",
+        10
+      ],
+      [
+        "POL",
+        8
+      ],
+      [
+        "EDU",
+        8
+      ],
+      [
+        "BXL",
+        2
+      ],
+      [
+        "SOC",
+        2
+      ]
+    ],
+    "seo": [
+      {
+        "k": "<title>",
+        "n": 214,
+        "base": 214,
+        "good": true
+      },
+      {
+        "k": "attribut lang",
+        "n": 212,
+        "base": 214,
+        "good": true
+      },
+      {
+        "k": "meta viewport",
+        "n": 213,
+        "base": 214,
+        "good": true
+      },
+      {
+        "k": "H1 détecté",
+        "n": 170,
+        "base": 214
+      },
+      {
+        "k": "meta description",
+        "n": 135,
+        "base": 214
+      },
+      {
+        "k": "Open Graph title",
+        "n": 109,
+        "base": 214
+      },
+      {
+        "k": "JSON-LD",
+        "n": 98,
+        "base": 214
+      },
+      {
+        "k": "rel=canonical",
+        "n": 97,
+        "base": 214
+      },
+      {
+        "k": "Twitter card",
+        "n": 97,
+        "base": 214
+      },
+      {
+        "k": "Open Graph image",
+        "n": 68,
+        "base": 214,
+        "bad": true
+      }
+    ],
+    "fallback": {
+      "noLinks": 42,
+      "thinContent": 44,
+      "noExternalScript": 171
+    },
+    "clientSignals": [
+      [
+        "Bibliothèque de graphiques",
+        29
+      ],
+      [
+        "localStorage",
+        37
+      ],
+      [
+        "IndexedDB",
+        5
+      ],
+      [
+        "Manifeste PWA",
+        53
+      ]
+    ],
+    "ghMeta": [
+      {
+        "k": "Description non vide",
+        "n": 11,
+        "base": 226
+      },
+      {
+        "k": "Homepage renseignée",
+        "n": 21,
+        "base": 226
+      },
+      {
+        "k": "Au moins un topic",
+        "n": 1,
+        "base": 226
+      },
+      {
+        "k": "Licence MIT reconnue",
+        "n": 16,
+        "base": 226
+      },
+      {
+        "k": "Licence NOASSERTION",
+        "n": 38,
+        "base": 226
+      },
+      {
+        "k": "Aucune licence",
+        "n": 172,
+        "base": 226,
+        "bad": true
+      }
+    ],
+    "duplicates": {
+      "groups": 23,
+      "roots": 50,
+      "crossAccount": 7
+    }
+  },
+  "recomputed": {
+    "note": "Recomptage indépendant effectué à partir de l'appendice du rapport critique.",
+    "roots": 226,
+    "dead": 12,
+    "live": 214,
+    "byTheme": {
+      "Politique & démocratie": 49,
+      "Justice & scandales": 21,
+      "Droits sociaux": 16,
+      "Éducation & culture": 14,
+      "ARG & expérimentation": 15,
+      "Bruxelles & territoires": 9,
+      "Documentation & archives": 29,
+      "Outils numériques": 18,
+      "Autres laboratoires": 55
+    },
+    "byType": {
+      "laboratoire": 83,
+      "documentation": 48,
+      "hub": 25,
+      "dossier": 23,
+      "expérience": 23,
+      "outil": 24
+    },
+    "byAccount": {
+      "ouaisfieu": 165,
+      "yannkeep": 61
+    },
+    "byMonth": {
+      "2025-01": 1,
+      "2025-02": 0,
+      "2025-03": 0,
+      "2025-04": 0,
+      "2025-05": 1,
+      "2025-06": 1,
+      "2025-07": 9,
+      "2025-08": 4,
+      "2025-09": 1,
+      "2025-10": 6,
+      "2025-11": 12,
+      "2025-12": 26,
+      "2026-01": 59,
+      "2026-02": 14,
+      "2026-03": 6,
+      "2026-04": 1,
+      "2026-05": 0,
+      "2026-06": 3,
+      "2026-07": 12,
+      "2026-08": 70
+    },
+    "duplicateTitleGroups": 24,
+    "duplicateTitleRoots": 52,
+    "duplicateCrossAccount": 7,
+    "reportSaysGroups": 23,
+    "divergenceNote": "Le rapport annonce 23 groupes pour 50 racines ; le recomptage sur les titres normalisés de l'appendice en trouve 24 pour 52. L'écart tient aux titres tronqués dans le tableau source."
+  }
+}

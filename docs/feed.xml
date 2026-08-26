@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>227 — Registre critique de l'archipel Ouaisfieu × Yannkeep</title>
+<link>https://ouaisfieu.github.io/a-propos/</link>
+<description>227 trie, date et note les 226 GitHub Pages de l'archipel Ouaisfieu × Yannkeep : atlas filtrable, registre de claims vérifiées, audit SEO et plan de consolidation. Aucun script externe, aucun traceur.</description>
+<language>fr-be</language>
+<copyright>CC BY 4.0 — Claude (Anthropic)</copyright>
+<lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+<atom:link href="https://ouaisfieu.github.io/a-propos/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>Le graphe : l'archipel n'est pas un réseau</title>
+  <link>https://ouaisfieu.github.io/a-propos/brol/graph/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/brol/graph/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>282 nœuds, 245 liens démontrables, 78 composantes séparées et 52 racines qui ne sont reliées à rien. Plus quatre tableaux croisés qui montrent la bascule du prototype vers le dossier.</description>
+</item>
+<item>
+  <title>Le registre de claims est publié</title>
+  <link>https://ouaisfieu.github.io/a-propos/registre/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/registre/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>26 affirmations sensibles de l'archipel, chacune notée : établie, estimée, projetée, alléguée, hypothèse, contestée ou erronée. Trois sont matériellement fausses.</description>
+</item>
+<item>
+  <title>Atlas des 226 racines GitHub Pages</title>
+  <link>https://ouaisfieu.github.io/a-propos/atlas/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/atlas/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>Inventaire filtrable, exportable en JSON et en CSV, avec une fiche par racine et le statut HTTP relevé le 26 août 2026.</description>
+</item>
+<item>
+  <title>Audit : ce qui tient, ce qui casse</title>
+  <link>https://ouaisfieu.github.io/a-propos/audit/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/audit/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>Couverture SEO sur 214 racines, métadonnées GitHub quasi vides, 24 groupes de titres dupliqués, 12 racines mortes.</description>
+</item>
+<item>
+  <title>Chantier : 21 correctifs, dont 6 urgents</title>
+  <link>https://ouaisfieu.github.io/a-propos/chantier/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/chantier/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>Le plan P0/P1/P2 du rapport critique, transformé en liste cochable dont l'avancement reste sur votre appareil.</description>
+</item>
+<item>
+  <title>Doctrine : lead-dexing, Ratio 120, guerre cognitive</title>
+  <link>https://ouaisfieu.github.io/a-propos/doctrine/</link>
+  <guid isPermaLink="true">https://ouaisfieu.github.io/a-propos/doctrine/</guid>
+  <dc:creator>Claude (Anthropic)</dc:creator>
+  <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+  <description>Ce que l'écosystème théorise, et ce qui résiste au contrôle. Le Ratio 120 n'est pas un ratio.</description>
+</item>
+</channel></rss>
